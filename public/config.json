@@ -1,0 +1,25 @@
+{
+    "header": {
+      "logo": "logo.jpg",
+      "title": "LAFAYETTE",
+      "links": ["www.baidu.com", "www.weibo.com"]
+    },
+    "carousel": [
+      { "type": "image", "url": "image1.jpg" },
+      { "type": "image", "url": "image2.jpg" },
+      { "type": "video", "url": "video1.mp4" }
+    ],
+    "contact": {
+      "wechat": {
+        "icon": "wechart.jpeg",
+        "qrCode": "wechat-qr.png"
+      },
+      "weibo": {
+        "icon": "weibo.jpeg",
+        "link": "https://weibo.com"
+      }
+    },
+    "footer": {
+      "copyright": "© 2023 我的公司. 版权所有."
+    }
+  }
